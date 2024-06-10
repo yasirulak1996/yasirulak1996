@@ -1,5 +1,5 @@
 - 👋 Hi, I’m yasiru lakshan
-- 👀 I’m interested in ...full-stack web dev machine learning 
+- 👀 I’m interested in ...full-stack web dev, machine learning 
 - 🌱 I’m currently learning ... javascript, react
 - 💞️ I’m looking for ... internship
 - 
