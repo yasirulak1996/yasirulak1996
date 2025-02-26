@@ -1,7 +1,7 @@
 - 👋 Hi, I’m yasiru lakshan
 - 👀 I’m interested in ...full-stack web dev, machine learning 
-- 🌱 I’m currently learning ... javascript, react
-- 💞️ I’m looking for ... internship
+- 🌱 I’m familiar work with ... , react,spring boot,node js and react
+- 💞️ I’m currently working at origyn,
 - 
 
 
